@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "275170226452",
+    "project_id": "covidrnchallenge",
+    "storage_bucket": "covidrnchallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275170226452:android:63b039f0bef017e8075201",
+        "android_client_info": {
+          "package_name": "com.covidrnchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275170226452-pin3k9jq5at2a0tuusu3cablpenpt10o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covidrnchallenge",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "275170226452-akb91vima9fdou6fsgnje4sq9heas07j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbKccPv0zTnL67CfMpUkzNASWWgxdWWp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275170226452-akb91vima9fdou6fsgnje4sq9heas07j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "275170226452-s4ppcisupf0hp4n68su5e9udcpu25haq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.covidrnchallenge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
